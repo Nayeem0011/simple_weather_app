@@ -37,3 +37,4 @@ export const WeatherProvider = ({ children }) => {
     </WeatherContext.Provider>
   )
 };
+

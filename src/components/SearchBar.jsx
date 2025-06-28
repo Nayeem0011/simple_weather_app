@@ -1,4 +1,3 @@
-
 import React, { Fragment, useContext, useState } from 'react';
 import { WeatherContext } from '../context/WeatherContext';
 
@@ -40,4 +39,3 @@ const SearchBar = () => {
 };
 
 export default SearchBar;
-
